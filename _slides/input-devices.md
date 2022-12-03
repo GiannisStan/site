@@ -6,7 +6,7 @@ caption: Οι συσκευές εισόδου είναι κομμάτια εξο
 slides:
  - qwerty-typewriter
  - engelbart-mouse
- - modernpc-mouse
+ - modern-pc-mouse
  - lightpen
  - chorded-keyboard
  - media-scrub
